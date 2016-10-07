@@ -2,7 +2,7 @@
 #Script de configuração do Zabbix Proxy e Zabbix Agent
 #Versão 1.0 - 06 Out 2016
 #Autor: João Lemes - sendtojoao@gmail.com
-#https://github.com/joaolemes/install-zabbix-raspberrypi/
+#https://github.com/joaolemes/zabbix-raspberrypi/
 #Sistema operacional testado 2016-09-23-raspbian-jessie-lite.img
 #Versão do Zabbix utilizada 3.0.5
 #Este Script insere configuração básica nos arquivos zabbix-proxy.conf e zabbix-agentd.conf
