@@ -2,6 +2,7 @@
 #Script de instalação do Zabbix Proxy e Zabbix Agent
 #Versão 1.0 - 06 Out 2016
 #Autor: João Lemes - sendtojoao@gmail.com
+#https://github.com/joaolemes/install-zabbix-raspberrypi/
 #S.O. utilizado: 2016-09-23-raspbian-jessie-lite.img
 #Versão do Zabbix 3.0.5
 #Este Script compila e instala o Zabbix Proxy e Agent, com SQLite3, IPv6, SNMP, SSH2 e OPENSSL, porém não coloca o Agent para iniciar automaticamente
